@@ -13,3 +13,4 @@
 
 ## 2. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulhamid07&theme=gruvbox&show_icons=true)
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">

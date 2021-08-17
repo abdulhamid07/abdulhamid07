@@ -8,5 +8,5 @@
 - 📫 How to reach me: Email to abdulhamid.dev@gmail.com
 - 😄 Pronouns: Hamid
 
-## 2. Most Used Languages
+## 1. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=merko&show_icons=true)

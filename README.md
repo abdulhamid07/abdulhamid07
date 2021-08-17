@@ -9,7 +9,7 @@
 - 😄 Pronouns: Hamid
 
 ## 1. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=tokyonight&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=dracula&show_icons=true)
 
 ## 2. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulhamid07&theme=gruvbox&show_icons=true)

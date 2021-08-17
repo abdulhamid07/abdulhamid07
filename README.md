@@ -10,3 +10,6 @@
 
 ## 1. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=merko&show_icons=true)
+
+## 2. GitHub Stats
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulhamid07&theme=merko&show_icons=true)

@@ -5,5 +5,5 @@
 -->
 - 🔭 I’m currently working on PT. Pelangi Indodata
 - 🌱 I’m currently learning frontend programing language
-- 📫 How to reach me: Email to -> abdulhamid.dev@gmail.com
-- 😄 Pronouns: Abdul, Hamid
+- 📫 How to reach me: Email to abdulhamid.dev@gmail.com
+- 😄 Pronouns: Hamid

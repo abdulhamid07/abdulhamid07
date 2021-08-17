@@ -7,10 +7,9 @@
 - 🌱 I’m currently learning frontend programing language
 - 📫 How to reach me: Email to abdulhamid.dev@gmail.com
 - 😄 Pronouns: Hamid
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 ## 1. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=dracula&show_icons=true)
 
 ## 2. GitHub Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulhamid07&theme=gruvbox&show_icons=true)
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">

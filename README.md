@@ -7,3 +7,5 @@
 - 🌱 I’m currently learning frontend programing language
 - 📫 How to reach me: Email to abdulhamid.dev@gmail.com
 - 😄 Pronouns: Hamid
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&langs_count=8

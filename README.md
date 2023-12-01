@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-abdulhamid.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abdulhamid.dev@gmail.com)](mailto:abdulhamid.dev@gmail.com)
 
 
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Abdul Hamid
+### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> my name is Hamid
 
 <!--
 **abdulhamid07/abdulhamid07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

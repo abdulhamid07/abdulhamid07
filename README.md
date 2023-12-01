@@ -17,8 +17,5 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
-## 1. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulhamid07&theme=dracula&show_icons=true)
 
-## 2. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=abdulhamid07&theme=gruvbox&show_icons=true)
